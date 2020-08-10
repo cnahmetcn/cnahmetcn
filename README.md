@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ahmet 
 
 # My Stats
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=isennkubilay&show_icons=true&line_height=50&theme=dracula" alt="My github stats" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=dracula" alt="My github stats" /></a>
 
 - 😄 Pronouns: He / Him
 
@@ -10,6 +10,7 @@
 -- Websites
 
 --- Personal site: [Ahmet Can](https://cnahmetcn.github.io)
+
 --- Blog site: [Teknokodi](https://www.teknokodi.com)
 
 -- Social Media
@@ -17,6 +18,11 @@
 --- [![Twitter Badge](https://img.shields.io/badge/-@cnahmetcn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cnahmetcn)](https://twitter.com/cnahmetcn)
 
 --- [![Linkedin Badge](https://img.shields.io/badge/-cnahmetcn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cnahmetcn/)](https://www.linkedin.com/in/cnahmetcn/)
+
+
+
+
+
 
 
 ## I’m currently working on
