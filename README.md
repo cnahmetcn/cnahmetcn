@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ahmet 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=dracula" alt="My github stats" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=onedark" alt="My github stats" /></a>
 
 - 😄 Pronouns: He / Him
 
@@ -66,7 +66,7 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Pytgon</span><br><br><br>
+        <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
