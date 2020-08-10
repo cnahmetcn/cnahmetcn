@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ahmet 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=onedark" alt="My github stats" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=dark" alt="My github stats" /></a>
 
 - 😄 Pronouns: He / Him
 
