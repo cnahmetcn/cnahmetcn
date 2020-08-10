@@ -7,17 +7,17 @@
 
 - 📫 How to reach me: ...
 
--- Websites
+  - Websites
 
---- Personal site: [Ahmet Can](https://cnahmetcn.github.io)
+   - Personal site: [Ahmet Can](https://cnahmetcn.github.io)
 
---- Blog site: [Teknokodi](https://www.teknokodi.com)
+   - Blog site: [Teknokodi](https://www.teknokodi.com)
 
--- Social Media
+  - Social Media
 
---- [![Twitter Badge](https://img.shields.io/badge/-@cnahmetcn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cnahmetcn)](https://twitter.com/cnahmetcn)
+   - [![Twitter Badge](https://img.shields.io/badge/-@cnahmetcn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cnahmetcn)](https://twitter.com/cnahmetcn)
 
---- [![Linkedin Badge](https://img.shields.io/badge/-cnahmetcn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cnahmetcn/)](https://www.linkedin.com/in/cnahmetcn/)
+   - [![Linkedin Badge](https://img.shields.io/badge/-cnahmetcn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cnahmetcn/)](https://www.linkedin.com/in/cnahmetcn/)
 
 
 
@@ -53,7 +53,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Visual Studio Cod𝗲</span><br><br><br>
+        <span>Visual Studio Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
