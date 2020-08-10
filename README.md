@@ -9,15 +9,15 @@
 
   - Websites
 
-   - Personal site: [Ahmet Can](https://cnahmetcn.github.io)
+    - Personal site: [Ahmet Can](https://cnahmetcn.github.io)
 
-   - Blog site: [Teknokodi](https://www.teknokodi.com)
+    - Blog site: [Teknokodi](https://www.teknokodi.com)
 
   - Social Media
 
-   - [![Twitter Badge](https://img.shields.io/badge/-@cnahmetcn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cnahmetcn)](https://twitter.com/cnahmetcn)
+    - [![Twitter Badge](https://img.shields.io/badge/-@cnahmetcn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cnahmetcn)](https://twitter.com/cnahmetcn)
 
-   - [![Linkedin Badge](https://img.shields.io/badge/-cnahmetcn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cnahmetcn/)](https://www.linkedin.com/in/cnahmetcn/)
+    - [![Linkedin Badge](https://img.shields.io/badge/-cnahmetcn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cnahmetcn/)](https://www.linkedin.com/in/cnahmetcn/)
 
 
 
