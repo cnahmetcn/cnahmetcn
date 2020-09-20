@@ -27,6 +27,8 @@
 
 ## I’m currently working on
 
+### Web Programming 
+
 <table>
   <tbody>
     <tr valign="top">
@@ -43,14 +45,14 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Flutter</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
         <span>Visual Studio Code</span><br><br><br>
