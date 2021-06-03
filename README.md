@@ -21,6 +21,7 @@
 
     - [![Linkedin Badge](https://img.shields.io/badge/-cnahmetcn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cnahmetcn/)](https://www.linkedin.com/in/cnahmetcn/)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ugwfl8s1ynrrlp68b0stszlzz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ugwfl8s1ynrrlp68b0stszlzz&redirect=true)
 
 
 
