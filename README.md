@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ahmet 
+### Hi there 👋 I'm Ahmet  ![](https://komarev.com/ghpvc/?username=cnahmetcn&label=My Profile Visitors)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=tokyonight" alt="My github stats" /></a>
