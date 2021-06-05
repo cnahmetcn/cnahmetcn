@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Ahmet  ![](https://komarev.com/ghpvc/?username=cnahmetcn&label=My Profile Visitors)
+### Hi there 👋 I'm Ahmet  
+
+![](https://visitor-badge.glitch.me/badge?page_id=cnahmetcn)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=tokyonight" alt="My github stats" /></a>
