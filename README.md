@@ -10,7 +10,7 @@
   <img align="left" alt="Ahmet Can Linkedin" width="22px" src="https://github.com/cnahmetcn/assets/blob/main/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC6ndYQW9mjsgOpz_hr95yEA">
-  <img align="left" alt="Teknokodi | Youtube" width="22px" src="https://github.com/cnahmetcn/assets/blob/main/youtube.svg" />
+  <img align="left" alt="Teknokodi Youtube" width="22px" src="https://github.com/cnahmetcn/assets/blob/main/youtube.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cnahmetcn)
