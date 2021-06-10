@@ -13,11 +13,9 @@
   <img align="left" alt="Teknokodi Youtube" width="22px" src="https://github.com/cnahmetcn/assets/blob/main/youtube.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=cnahmetcn)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=cnahmetcn) -->
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=tokyonight" alt="My github stats" /></a>
-
+<br> 
 Hello I am Ahmet. I am a computer engineer and Javascript developer.
 
 **Languages and Tools:**  
