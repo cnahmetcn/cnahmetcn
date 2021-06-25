@@ -16,8 +16,10 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=cnahmetcn) -->
 
 <br> 
+<br>
 Hello I am Ahmet. I am a computer engineer and Javascript developer.
-
+<br> 
+<br>
 **Languages and Tools:**  
 
 <div>
