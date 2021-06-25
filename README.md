@@ -17,10 +17,12 @@
 
 <br> 
 <br>
+
 Hello I am Ahmet. I am a computer engineer and Javascript developer.
 <br> 
 <br>
-**Languages and Tools:**  
+
+**Languages and Tools**  
 
 <div>
 <img height="25" src="https://github.com/cnahmetcn/assets/blob/main/js.svg"> 
