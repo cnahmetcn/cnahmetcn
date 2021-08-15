@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ahmet
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=onedark" alt="My github stats" /></a>
+
 <a href="https://open.spotify.com/user/ugwfl8s1ynrrlp68b0stszlzz?si=52043dd7fc704109">
   <img align="left" alt="Ahmet Can Spotify" width="22px" src="https://github.com/cnahmetcn/assets/blob/main/spotify.svg" />
 </a>
