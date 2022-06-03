@@ -1,7 +1,6 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ahmet
-<!--
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=onedark" alt="My github stats" /></a>
--->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnahmetcn&layout=compact&theme=dark&hide=css,html,php,javascript&langs_count=10)
 <br>
 <a href="https://open.spotify.com/user/ugwfl8s1ynrrlp68b0stszlzz?si=52043dd7fc704109">
