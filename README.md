@@ -29,7 +29,7 @@ Hello I am Ahmet. I am a computer engineer and Laravel / Javascript developer.
 
 <div>
 <img height="25" src="https://github.com/cnahmetcn/assets/blob/main/js.svg"> 
-<img height="25" src="https://github.com/cnahmetcn/assets/blob/main/react.svg"> 
+<img height="25" src="https://github.com/cnahmetcn/assets/blob/main/flutter.svg"> 
 <img height="25" src="https://github.com/cnahmetcn/assets/blob/main/vue.svg"> 
 <img height="25" src="https://github.com/cnahmetcn/assets/blob/main/laravel.svg"> 
 <img height="25" src="https://github.com/cnahmetcn/assets/blob/main/html.svg"> 
