@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&line_height=50&theme=onedark" alt="My github stats" /></a>
+<a href="http://www.github.com/cnahmetcn"><img src="https://github-readme-stats.vercel.app/api?username=cnahmetcn&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="cnahmetcn's GitHub stats" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnahmetcn&layout=compact&theme=dark&hide=css,html,php,javascript&langs_count=10)
 <br>
